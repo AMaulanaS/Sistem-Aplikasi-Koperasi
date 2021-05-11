@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background:url(../images/page_bg.jpg);
+}
+.login-inside	{ 
+	width: 400px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	margin: 0px auto;  
+	margin-top: 200px; 
+	padding: 10px;
+	border:2px solid #F30;
+	/* background-color:#f9f9f9; */
+	background:url(../images/bg_inside.png);
+	-moz-border-radius: 5px 5px 5px 5px; 
+	-webkit-border-radius: 5px 5px 5px 5px; 
+	border-radius: 5px 5px 5px 5px; 
+	-moz-box-shadow:0px 0px 4px #aaa;
+    -webkit-box-shadow:0px 0px 4px #aaa;
+    box-shadow:0px 0px 4px #aaa;
+}
+.login-data		{ 
+	padding: 40px 0px 25px 0px;
+	color:#F00;
+	font-weight:bold;
+	
+}
+button {
+	-moz-border-radius: 5px 5px 5px 5px; 
+	-webkit-border-radius: 5px 5px 5px 5px; 
+	border-radius: 5px 5px 5px 5px; 
+	-moz-box-shadow:0px 0px 4px #aaa;
+    -webkit-box-shadow:0px 0px 4px #aaa;
+    box-shadow:0px 0px 4px #aaa;
+}
